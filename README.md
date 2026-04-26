@@ -5,7 +5,6 @@
 | Champ | Valeur |
 |-------|--------|
 | Date de l’analyse | 26 avril 2026 |
-| Analyste | [Ton nom] |
 | APK analysé | UnCrackable-Level1.apk |
 | Version | 1.0 (versionCode=1) |
 | Package | owasp.mstg.uncrackable1 |
